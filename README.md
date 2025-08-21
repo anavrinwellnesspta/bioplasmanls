@@ -22,7 +22,7 @@
                     <div class="text-3xl">🔬</div>
                     <div>
                         <h1 class="text-2xl font-bold">Bioplasm NLS V6 Database</h1>
-                        <p class="text-blue-100 text-sm">Anavrin Wellness - Complete Version 52 Medical Protocol Database</p>
+                        <p class="text-blue-100 text-sm">Anavrin Wellness - Complete Version Protocol Database</p>
                     </div>
                 </div>
                 <div class="text-right">
