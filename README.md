@@ -30,7 +30,6 @@
                 </div>
             </div>
         </div>
-    </header>
 
     <!-- Search Section -->
     <div class="bg-white shadow-sm border-b">
