@@ -14,7 +14,6 @@
     </style>
 </head>
 <body class="bg-gray-50">
-    <!-- Header -->
     <header class="gradient-bg text-white shadow-lg">
         <div class="container mx-auto px-6 py-4">
             <div class="flex items-center justify-between">
